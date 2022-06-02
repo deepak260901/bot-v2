@@ -33,27 +33,27 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['265889976968',''] //owner number +265889976968
+global.pemilik = ['265889976968'] //owner number +265889976968
+global.premium = ['265889976968'] //premium number +265889976968
 global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.footer = 'KINGSLEY BOT INC'
+global.botnma = 'KINGSLEY BOT' //bot name
+global.ownernma = 'Kingsley' //owner name
+global.packname = 'Kingsley' //sticker package name
+global.author = 'By Kíñgsléy bot Memes' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['#','!','-',''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    success: 'Kingsley 😎 Done!',
+    admin: '*This feature is only for admins 🥱fool!*',
+    botAdmin: '*kingsley bot  must be admin😁 first!*',
+    owner: '*this feature is only for kingsley bot owner*',
     group: '*Feature is only for groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment kingsley bot😉 proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
 }
 global.limitawal = {
