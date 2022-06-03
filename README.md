@@ -1,7 +1,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 
-# ZIM BOT INC
+# KINGSLEY BOT INC
  WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
@@ -10,7 +10,7 @@
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ife250/bot-v2)
 
 ## BUILD PACKS
 
