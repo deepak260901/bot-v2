@@ -1,7 +1,7 @@
 {
-  "name": "Kingsley Bot Inc",
+  "name": "Deepak Bot Inc",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/ife250/bot-v2",
+  "repository": "https://github.com/deepak260901/bot-v2",
   "logo": "https://telegra.ph/file/3dc8ead2776d65a3b0d02.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
